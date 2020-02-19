@@ -18,7 +18,6 @@ else:
 
         else:
          print('Esse mes tem 31 dias')
-
         if dia > 0  and  dia <= 31  and mes in meses_31_dias:
             print(dia,'/',mes,'/',ano)
 
